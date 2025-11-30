@@ -1,8 +1,3 @@
-Below is a clean, professional, and ready-to-publish **README.md** for your GitHub repository.
-It is based entirely on your **Streamlit code**, **model workflow**, and the interface shown in the uploaded PDF and images .
-
----
-
 # Car Price Prediction Dashboard
 
 This project is an interactive Streamlit web application designed to predict the selling price of used cars using a trained Random Forest regression model.
